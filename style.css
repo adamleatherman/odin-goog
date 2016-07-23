@@ -1,0 +1,79 @@
+html, body {
+	height:100%;
+	position: relative;
+	font-family: arial;
+	font-size: small;
+}
+
+header ul {
+	float: right;
+	margin-right: 20px;
+}
+
+header ul li{
+	display: inline;
+	padding: 5px;
+	
+}
+
+#signin {
+	background-color: blue;
+	color: white;
+}
+
+.container {
+	clear: both;
+	padding-top: 15%;
+	
+}
+
+
+#logo {
+	margin-left: 35%;
+}
+
+input {
+	width: 50%;
+	margin-left: 23.5%;
+	height: 30px;
+	margin-top: 13px;
+}
+
+#buttons {
+	margin-top: 20px;
+	padding-left: 33%;
+
+}
+
+#buttons div {
+	display: inline-block;
+	background-color: #f2f2f2;
+	height: 30px;
+	padding-top: 10px;
+	padding-right: 22px;
+	padding-left: 22px;
+	color: #757575;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+
+
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-color: #f2f2f2;
+}
+
+footer ul li{
+	display: inline;
+	padding: 7px;
+	color:#666;
+}
+
+footer ul span {
+	float: right;
+	margin-right: 10px;
+	}
